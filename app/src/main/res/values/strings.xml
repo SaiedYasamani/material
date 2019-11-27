@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="next">next</string>
+    <string name="cancel">cancel</string>
+    <string name="material">Material</string>
+    <string name="close">close</string>
+</resources>
